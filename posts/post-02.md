@@ -1,7 +1,6 @@
 ---
 title: 프로젝트 잘 끝내는 법
 date: 2024-02-23
-thumbnail: nextjs.png
 description: 엉망진창 진행되고 있는 프로젝트를 잘 끝내는 법에 대해 고민해봅니다.
 ---
 
